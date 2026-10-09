@@ -39,7 +39,7 @@ Sensores embarcados no equipamento enviam telemetria para um app Android, e um p
 
 ## Demonstração
 
-- Vídeo: _(link)_
+- Vídeo:https://youtu.be/GSfibnsm00Y 
 
 Telas em `docs/prints/`.
 
