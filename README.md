@@ -41,7 +41,9 @@ Sensores embarcados no equipamento enviam telemetria para um app Android, e um p
 
 - Vídeo:https://youtu.be/GSfibnsm00Y 
 
-Telas em `docs/prints/`.
+![App Android: login, sensor, equipamentos e dashboard](docs/prints/app.png)
+
+_Equipamentos simulados para teste._
 
 ## Time Outliers — FIAP
 
