@@ -39,7 +39,7 @@ Sensores embarcados no equipamento enviam telemetria para um app Android, e um p
 
 ## Demonstração
 
-- Vídeo:https://youtu.be/GSfibnsm00Y 
+- Vídeo: https://youtu.be/GSfibnsm00Y
 
 ![App Android: login, sensor, equipamentos e dashboard](docs/prints/app.png)
 
